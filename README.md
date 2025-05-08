@@ -27,4 +27,4 @@ Die Leistungsmatrix pro Manager schließlich offenbart, dass in fast allen Teams
 Die ausgesprochen hohe Outsourcing‑Quote sollte in einer Kosten‑Nutzen‑Analyse auf ihre langfristigen Auswirkungen geprüft werden, um einer möglichen Abhängigkeit externer Dienstleister vorzubeugen. Das lineare Vergütungsmodell bestätigt zwar den aktuellen Karrierepfad, eröffnet aber Potenzial für feinere Differenzierungen im Bonus, um Top‑Performer gezielter zu incentivieren. Die demografischen Daten sprechen für eine ausgewogene Alters‑ und Geschlechterstruktur; dennoch empfiehlt es sich, den Fokus auf die Förderung des „Emerging Talent“ beizubehalten, um künftige Führungskräfte frühzeitig aufzubauen. Abschließend könnte ein Coaching‑Programm für jene Manager, deren Teams unter dem Durchschnitt liegen, die Performance‑Spanne weiter reduzieren und die Gesamtorganisation stärken.
 
 ## Daten  
-Alle Rohdaten und Analysen findest du in der folgenden Excel-Datei: [Employee-Data-Analysis](Employee-Data-Analysis.xlsx)
+Alle Daten und Analysen findest du in der folgenden Excel-Datei: [Employee-Data-Analysis](Employee-Data-Analysis.xlsx)
