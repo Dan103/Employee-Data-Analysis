@@ -1,9 +1,8 @@
 # Employee-Data-Analysis
 
-
 ![Employee Data Dashboard](dashboard_image.png)
 
-# Executive HR & Financial Dashboard
+## Executive HR & Financial Dashboard
 
 ## 1. Projektüberblick  
 Dieses Dashboard fasst zentrale HR‑ und Finanzkennzahlen in einem interaktiven Bericht zusammen. Es zeigt anschaulich, wie sich die Belegschaft auf Abteilungen verteilt, welche Vergütungsstrukturen für unterschiedliche Funktionen gelten, wie Alters‑ und Geschlechtergruppen zusammenspielen und in welchem Ausmaß Führungskräfte die Leistung ihrer Teams fördern. Damit liefert das Tool eine solide Grundlage für strategische Personal‑ und Budgetentscheidungen auf Management‑Ebene.
@@ -29,7 +28,5 @@ Die Leistungsmatrix pro Manager schließlich offenbart, dass in fast allen Teams
 ## 5. Ergebnisse & Handlungsempfehlungen  
 Die ausgesprochen hohe Outsourcing‑Quote sollte in einer Kosten‑Nutzen‑Analyse auf ihre langfristigen Auswirkungen geprüft werden, um einer möglichen Abhängigkeit externer Dienstleister vorzubeugen. Das lineare Vergütungsmodell bestätigt zwar den aktuellen Karrierepfad, eröffnet aber Potenzial für feinere Differenzierungen im Bonus, um Top‑Performer gezielter zu incentivieren. Die demografischen Daten sprechen für eine ausgewogene Alters‑ und Geschlechterstruktur; dennoch empfiehlt es sich, den Fokus auf die Förderung des „Emerging Talent“ beizubehalten, um künftige Führungskräfte frühzeitig aufzubauen. Abschließend könnte ein Coaching‑Programm für jene Manager, deren Teams unter dem Durchschnitt liegen, die Performance‑Spanne weiter reduzieren und die Gesamtorganisation stärken.
 
-
-
-
-[Excel File](Employee-Data-Analysis.xlsx)
+## Daten  
+Alle Rohdaten und Analysen findest du in der folgenden Excel-Datei: [Employee-Data-Analysis](Employee-Data-Analysis.xlsx)
