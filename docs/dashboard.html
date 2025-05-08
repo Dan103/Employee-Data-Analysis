@@ -4,23 +4,15 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <style>
-    /* 
-      1) Remove all default margins/padding.
-      2) Force html/body to occupy 100% of the viewport.
-      3) Hide overflow so no scrollbars appear on the page itself.
-    */
+    /* 1) Purge all default spacing and force full-viewport */
     html, body {
-      margin: 0; 
+      margin: 0;
       padding: 0;
       width: 100%;
       height: 100%;
       overflow: hidden;
     }
-
-    /* 
-      Absolutely position the iframe at top-left,
-      and stretch it to 100% width & height of its container.
-    */
+    /* 2) Absolutely position the iframe to cover everything */
     iframe {
       position: absolute;
       top: 0;
@@ -32,14 +24,16 @@
   </style>
 </head>
 <body>
-  <!--
-    No width/height attributes here — CSS will take over.
-    Make sure this src matches exactly the embed snippet you generated
-    in OneDrive (and that “Anyone can view” is enabled).
-  -->
   <iframe
-    src="https://onedrive.live.com/embed?resid=F133C1C68D80E3E7%21847&amp;authkey=%21AD1uVXoK1lJ_3j8&amp;em=2&amp;wdAllowInteractivity=True&amp;wdHideGridlines=True&amp;wdHideSheetTabs=True&amp;wdDownloadButton=False"
-    scrolling="no">
+    scrolling="no"
+    src="https://onedrive.live.com/embed?
+      resid=F133C1C68D80E3E7%21847
+      &authkey=%21AD1uVXoK1lJ_3j8
+      &em=2
+      &wdAllowInteractivity=True
+      &wdHideGridlines=True
+      &wdHideSheetTabs=True
+      &wdDownloadButton=False">
   </iframe>
 </body>
 </html>
