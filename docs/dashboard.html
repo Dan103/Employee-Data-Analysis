@@ -4,33 +4,29 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <style>
-    /* full-viewport, no scrollbars */
+    /* remove all spacing and force full-viewport */
     html, body {
       margin: 0;
       padding: 0;
-      height: 100vh;
-      overflow: hidden;
-    }
-    iframe {
-      border: none;
       width: 100%;
       height: 100%;
-      display: block;
+      overflow: hidden;
+    }
+    /* position the iframe absolutely to fill */
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
     }
   </style>
 </head>
 <body>
-
   <iframe
-    src="https://onedrive.live.com/embed?
-      resid=F133C1C68D80E3E7%21847
-      &amp;authkey=%21AD1uVXoK1lJ_3j8
-      &amp;em=2
-      &amp;wdAllowInteractivity=True
-      &amp;wdHideGridlines=True
-      &amp;wdHideSheetTabs=True
-      &amp;wdDownloadButton=False">
+    src="https://onedrive.live.com/embed?resid=F133C1C68D80E3E7%21847&amp;authkey=%21AD1uVXoK1lJ_3j8&amp;em=2&amp;wdAllowInteractivity=True&amp;wdHideGridlines=True&amp;wdHideSheetTabs=True&amp;wdDownloadButton=False"
+    scrolling="no">
   </iframe>
-
 </body>
 </html>
