@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <style>
-    /* 1) Purge all default spacing and force full-viewport */
+    /* Remove margins, force body/html to fill viewport */
     html, body {
       margin: 0;
       padding: 0;
@@ -12,7 +12,7 @@
       height: 100%;
       overflow: hidden;
     }
-    /* 2) Absolutely position the iframe to cover everything */
+    /* Make the iframe cover the entire viewport */
     iframe {
       position: absolute;
       top: 0;
@@ -26,14 +26,12 @@
 <body>
   <iframe
     scrolling="no"
-    src="https://onedrive.live.com/embed?
-      resid=F133C1C68D80E3E7%21847
-      &authkey=%21AD1uVXoK1lJ_3j8
-      &em=2
-      &wdAllowInteractivity=True
-      &wdHideGridlines=True
-      &wdHideSheetTabs=True
-      &wdDownloadButton=False">
+    src="https://view.officeapps.live.com/op/embed.aspx?\
+src=https%3A%2F%2Fraw.githubusercontent.com%2FDan103%2FEmployee-Data-Analysis%2Fmain%2FEmployee%2520Data%2520Analysis.xlsx\
+&wdAllowInteractivity=True\
+&wdHideGridlines=True\
+&wdHideSheetTabs=True\
+&wdDownloadButton=False">
   </iframe>
 </body>
 </html>
