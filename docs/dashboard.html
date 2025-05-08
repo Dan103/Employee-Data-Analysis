@@ -4,7 +4,7 @@
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <style>
-    /* Remove margins, force body/html to fill viewport */
+    /* remove margins, make iframe fill the viewport */
     html, body {
       margin: 0;
       padding: 0;
@@ -12,7 +12,6 @@
       height: 100%;
       overflow: hidden;
     }
-    /* Make the iframe cover the entire viewport */
     iframe {
       position: absolute;
       top: 0;
@@ -26,12 +25,12 @@
 <body>
   <iframe
     scrolling="no"
-    src="https://view.officeapps.live.com/op/embed.aspx?\
-src=https%3A%2F%2Fraw.githubusercontent.com%2FDan103%2FEmployee-Data-Analysis%2Fmain%2FEmployee%2520Data%2520Analysis.xlsx\
-&wdAllowInteractivity=True\
-&wdHideGridlines=True\
-&wdHideSheetTabs=True\
-&wdDownloadButton=False">
+    src="https://view.officeapps.live.com/op/embed.aspx?
+      src=https://cdn.jsdelivr.net/gh/Dan103/Employee-Data-Analysis@main/Employee%20Data%20Analysis.xlsx
+      &wdAllowInteractivity=True
+      &wdHideGridlines=True
+      &wdHideSheetTabs=True
+      &wdDownloadButton=False">
   </iframe>
 </body>
 </html>
