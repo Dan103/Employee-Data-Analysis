@@ -2,8 +2,6 @@
 
 ![Employee Data Dashboard](dashboard_image.png)
 
-## Executive HR & Financial Dashboard
-
 ## 1. Projektüberblick  
 Dieses Dashboard fasst zentrale HR‑ und Finanzkennzahlen in einem interaktiven Bericht zusammen. Es zeigt anschaulich, wie sich die Belegschaft auf Abteilungen verteilt, welche Vergütungsstrukturen für unterschiedliche Funktionen gelten, wie Alters‑ und Geschlechtergruppen zusammenspielen und in welchem Ausmaß Führungskräfte die Leistung ihrer Teams fördern. Damit liefert das Tool eine solide Grundlage für strategische Personal‑ und Budgetentscheidungen auf Management‑Ebene.
 
